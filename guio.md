@@ -4,7 +4,7 @@
 
 - Què és el live coding
 
-[https://blog.toplap.org/about/](https://blog.toplap.org/about/)
+emsp [https://blog.toplap.org/about/](https://blog.toplap.org/about/)
 
 - Qui som TOPLAP Barcelona
 
