@@ -34,7 +34,7 @@
 
 # Introducció
 
-&emsp; &emsp; [strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
+[strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
 
 - Què és Strudel?
 
@@ -57,7 +57,7 @@
 
 # Melodies (notes)
 
-&emsp; &emsp; [strudel.cc/workshop/first-notes/](https://strudel.cc/workshop/first-notes/)
+[strudel.cc/workshop/first-notes/](https://strudel.cc/workshop/first-notes/)
 
 - Notes: nota amb piano (notes midi o notació int.)
 
@@ -84,7 +84,7 @@
 
 # Efectes
 
-&emsp; &emsp; [strudel.cc/workshop/first-effects/](https://strudel.cc/workshop/first-effects/)
+[strudel.cc/workshop/first-effects/](https://strudel.cc/workshop/first-effects/)
 
 - Veure exemples i com combinar-los usant notació JS
 
@@ -97,7 +97,7 @@
 
 # Sintetitzadors
 
-&emsp; &emsp; [strudel.cc/learn/synths/](https://strudel.cc/learn/synths/)
+[strudel.cc/learn/synths/](https://strudel.cc/learn/synths/)
 
 - Provar diferents sintes
 
@@ -108,7 +108,7 @@
 
 # Modulació amb senyals
 
-&emsp; &emsp; [strudel.cc/workshop/first-effects/#modulation-with-signals](https://strudel.cc/workshop/first-effects/#modulation-with-signals)
+[strudel.cc/workshop/first-effects/#modulation-with-signals](https://strudel.cc/workshop/first-effects/#modulation-with-signals)
 
 - sine, rand, …
 
