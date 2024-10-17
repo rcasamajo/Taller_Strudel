@@ -2,6 +2,11 @@
 
 - Presentació
 
+&emsp; &emsp; Júlia Múgica https://www.instagram.com/jujmg/
+
+&emsp; &emsp; Ramon Casamajó https://www.instagram.com/rcasamajo/ http://callitanything.org/
+
+
 - Què és el live coding
 
 &emsp; &emsp; [https://blog.toplap.org/about/](https://blog.toplap.org/about/)
