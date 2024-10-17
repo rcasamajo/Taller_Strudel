@@ -2,45 +2,45 @@
 
 - Presentació
 
-&emsp; &emsp; Júlia Múgica https://www.instagram.com/jujmg/
+&emsp; &emsp; [Júlia Múgica](https://www.instagram.com/jujmg/)
 
-&emsp; &emsp; Ramon Casamajó https://www.instagram.com/rcasamajo/ http://callitanything.org/
+&emsp; &emsp; [Ramon Casamajó](https://www.instagram.com/rcasamajo/) - [callitanything.org](http://callitanything.org/)
 
 
 - Què és el live coding
 
-&emsp; &emsp; [https://blog.toplap.org/about/](https://blog.toplap.org/about/)
+&emsp; &emsp; [blog.toplap.org/about/](https://blog.toplap.org/about/)
 
 - Qui som TOPLAP Barcelona
 
-&emsp; &emsp; [https://toplap.cat/](https://toplap.cat/)
+&emsp; &emsp; [toplap.cat/](https://toplap.cat/)
 
-&emsp; &emsp; [https://social.toplap.org/@toplap_bcn](https://social.toplap.org/@toplap_bcn)
+&emsp; &emsp; [social.toplap.org/@toplap_bcn](https://social.toplap.org/@toplap_bcn)
 
-&emsp; &emsp; [https://www.instagram.com/toplap_bcn/](https://www.instagram.com/toplap_bcn/)
+&emsp; &emsp; [www.instagram.com/toplap_bcn/](https://www.instagram.com/toplap_bcn/)
 
-&emsp; &emsp; [https://www.youtube.com/c/TOPLAPBARCELONA](https://www.youtube.com/c/TOPLAPBARCELONA)
+&emsp; &emsp; [www.youtube.com/c/TOPLAPBARCELONA](https://www.youtube.com/c/TOPLAPBARCELONA)
 
 - Eina/Llenguatge que usarem avui: Strudel
 
-&emsp; &emsp; [https://strudel.cc/](https://strudel.cc/)
+&emsp; &emsp; [strudel.cc/](https://strudel.cc/)
 
 - Documentació oficial
 
-&emsp; &emsp; [https://strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
+&emsp; &emsp; [strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
 
 <br />
 
 
 # Introducció
 
-&emsp; &emsp; [https://strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
+&emsp; &emsp; [strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
 
 - Què és Strudel?
 
 - Entorn, primer so
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-sounds/](https://strudel.cc/workshop/first-sounds/)
+&emsp; &emsp; [strudel.cc/workshop/first-sounds/](https://strudel.cc/workshop/first-sounds/)
 
 - Samples, operador “:” o “n”, bank (drum sounds) => Notació JS usant el “.”
 
@@ -50,24 +50,24 @@
 
 - Ajuda visual: punchcard() o _punchcard()
 
-&emsp; &emsp; [https://strudel.cc/learn/visual-feedback/#visual-feedback](https://strudel.cc/learn/visual-feedback/#visual-feedback)
+&emsp; &emsp; [strudel.cc/learn/visual-feedback/#visual-feedback](https://strudel.cc/learn/visual-feedback/#visual-feedback)
 
 <br />
 
 
 # Melodies (notes)
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-notes/](https://strudel.cc/workshop/first-notes/)
+&emsp; &emsp; [strudel.cc/workshop/first-notes/](https://strudel.cc/workshop/first-notes/)
 
 - Notes: nota amb piano (notes midi o notació int.)
 
 - Veure exemples de la doc
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-notes/#longer-sequences](https://strudel.cc/workshop/first-notes/#longer-sequences)
+&emsp; &emsp; [strudel.cc/workshop/first-notes/#longer-sequences](https://strudel.cc/workshop/first-notes/#longer-sequences)
 
 - Escales
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-notes/#scales](https://strudel.cc/workshop/first-notes/#scales)
+&emsp; &emsp; [strudel.cc/workshop/first-notes/#scales](https://strudel.cc/workshop/first-notes/#scales)
 
 - Executar més d’una instrucció a la vegada: “$:”
 
@@ -77,27 +77,27 @@
 
 - Més operadors: ! @ /
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-notes/#recap](https://strudel.cc/workshop/first-notes/#recap)
+&emsp; &emsp; [strudel.cc/workshop/first-notes/#recap](https://strudel.cc/workshop/first-notes/#recap)
 
 <br />
 
 
 # Efectes
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-effects/](https://strudel.cc/workshop/first-effects/)
+&emsp; &emsp; [strudel.cc/workshop/first-effects/](https://strudel.cc/workshop/first-effects/)
 
 - Veure exemples i com combinar-los usant notació JS
 
 - Tots els efectes d'àudio:
 
-&emsp; &emsp; [https://strudel.cc/learn/effects/](https://strudel.cc/learn/effects/)
+&emsp; &emsp; [strudel.cc/learn/effects/](https://strudel.cc/learn/effects/)
 
 <br />
 
 
 # Sintetitzadors
 
-&emsp; &emsp; [https://strudel.cc/learn/synths/](https://strudel.cc/learn/synths/)
+&emsp; &emsp; [strudel.cc/learn/synths/](https://strudel.cc/learn/synths/)
 
 - Provar diferents sintes
 
@@ -108,7 +108,7 @@
 
 # Modulació amb senyals
 
-&emsp; &emsp; [https://strudel.cc/workshop/first-effects/#modulation-with-signals](https://strudel.cc/workshop/first-effects/#modulation-with-signals)
+&emsp; &emsp; [strudel.cc/workshop/first-effects/#modulation-with-signals](https://strudel.cc/workshop/first-effects/#modulation-with-signals)
 
 - sine, rand, …
 
@@ -119,11 +119,11 @@
 
 # Altres efectes i modificadors
 
-- Modificació de patrons: [https://strudel.cc/workshop/pattern-effects/](https://strudel.cc/workshop/pattern-effects/)
+- Modificació de patrons: [strudel.cc/workshop/pattern-effects/](https://strudel.cc/workshop/pattern-effects/)
 
-- Modificació de temps: [https://strudel.cc/learn/time-modifiers/](https://strudel.cc/learn/time-modifiers/)
+- Modificació de temps: [strudel.cc/learn/time-modifiers/](https://strudel.cc/learn/time-modifiers/)
 
-- Aleatorietat: https://strudel.cc/learn/random-modifiers/
+- Aleatorietat: [strudel.cc/learn/random-modifiers/](https://strudel.cc/learn/random-modifiers/)
 
 <br />
 
@@ -136,4 +136,4 @@
 
 - L’aplicació també funciona “**offline**” perquè es descarrega la primera vegada que la usem (les mostres usades també els tindrem disponibles “offline”).
 
-- Podem carregar a l’aplicació **mostres de so** des d’un repositori públic o des del mateix dispositiu local: [https://strudel.cc/learn/samples/](https://strudel.cc/learn/samples/)
+- Podem carregar a l’aplicació **mostres de so** des d’un repositori públic o des del mateix dispositiu local: [strudel.cc/learn/samples/](https://strudel.cc/learn/samples/)
