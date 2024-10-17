@@ -1,4 +1,4 @@
-### Taller introducció al live coding amb Strudel
+# Taller introducció al live coding amb Strudel
 
 - Presentació
 
