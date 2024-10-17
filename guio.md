@@ -24,6 +24,9 @@
 
 [https://strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
 
+<br />
+
+
 # Introducció
 
 [https://strudel.cc/workshop/getting-started/](https://strudel.cc/workshop/getting-started/)
@@ -43,6 +46,9 @@
 - Ajuda visual: punchcard() o _punchcard()
 
 [https://strudel.cc/learn/visual-feedback/#visual-feedback](https://strudel.cc/learn/visual-feedback/#visual-feedback)
+
+<br />
+
 
 # Melodies (notes)
 
@@ -68,6 +74,9 @@
 
 [https://strudel.cc/workshop/first-notes/#recap](https://strudel.cc/workshop/first-notes/#recap)
 
+<br />
+
+
 # Efectes
 
 [https://strudel.cc/workshop/first-effects/](https://strudel.cc/workshop/first-effects/)
@@ -78,6 +87,9 @@
 
 [https://strudel.cc/learn/effects/](https://strudel.cc/learn/effects/)
 
+<br />
+
+
 # Sintetitzadors
 
 [https://strudel.cc/learn/synths/](https://strudel.cc/learn/synths/)
@@ -85,6 +97,9 @@
 - Provar diferents sintes
 
 - Visualitzador de la ona de so: scope() / _scope()
+
+<br />
+
 
 # Modulació amb senyals
 
@@ -94,6 +109,9 @@
 
 - range
 
+<br />
+
+
 # Altres efectes i modificadors
 
 - Modificació de patrons: [https://strudel.cc/workshop/pattern-effects/](https://strudel.cc/workshop/pattern-effects/)
@@ -101,6 +119,9 @@
 - Modificació de temps: [https://strudel.cc/learn/time-modifiers/](https://strudel.cc/learn/time-modifiers/)
 
 - Aleatorietat: https://strudel.cc/learn/random-modifiers/
+
+<br />
+
 
 # Miscel·lània
 
