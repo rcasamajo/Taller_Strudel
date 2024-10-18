@@ -137,3 +137,5 @@
 - L’aplicació també funciona “**offline**” perquè es descarrega la primera vegada que la usem (les mostres usades també els tindrem disponibles “offline”).
 
 - Podem carregar a l’aplicació **mostres de so** des d’un repositori públic o des del mateix dispositiu local: [strudel.cc/learn/samples/](https://strudel.cc/learn/samples/)
+
+- [Llistat de llengüatges de live coding](https://github.com/toplap/awesome-livecoding).
