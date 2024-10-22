@@ -21,6 +21,8 @@
 
 &emsp; &emsp; [www.youtube.com/c/TOPLAPBARCELONA](https://www.youtube.com/c/TOPLAPBARCELONA)
 
+&emsp; &emsp; [Grup de Telegram](https://t.me/toplapbcn)
+
 - Eina/Llenguatge que usarem avui: Strudel
 
 &emsp; &emsp; [strudel.cc/](https://strudel.cc/)
